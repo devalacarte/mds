@@ -1,0 +1,4 @@
+SET IDENTITY_INSERT [mdm].[tbl_4_34_CM] ON
+INSERT INTO [mdm].[tbl_4_34_CM] ([Version_ID], [ID], [Status_ID], [Parent_CN_ID], [ChildType_ID], [Child_EN_ID], [Child_HP_ID], [Child_CN_ID], [SortOrder], [Weight], [EnterDTM], [EnterUserID], [EnterVersionID], [LastChgDTM], [LastChgUserID], [LastChgVersionID], [AsOf_ID], [MUID]) VALUES (4, 1, 1, 1, 2, NULL, 9, NULL, 1, 0.000, '2015-11-10 06:02:21.080', 1, 4, '2015-11-10 06:02:21.080', 1, 4, NULL, '0800cdca-d192-498c-affe-97763f1ce619')
+INSERT INTO [mdm].[tbl_4_34_CM] ([Version_ID], [ID], [Status_ID], [Parent_CN_ID], [ChildType_ID], [Child_EN_ID], [Child_HP_ID], [Child_CN_ID], [SortOrder], [Weight], [EnterDTM], [EnterUserID], [EnterVersionID], [LastChgDTM], [LastChgUserID], [LastChgVersionID], [AsOf_ID], [MUID]) VALUES (4, 2, 1, 1, 2, NULL, 10, NULL, 2, 0.000, '2015-11-10 06:02:21.120', 1, 4, '2015-11-10 06:02:21.120', 1, 4, NULL, '9d746015-c61c-46a6-bd05-969fb7038c20')
+SET IDENTITY_INSERT [mdm].[tbl_4_34_CM] OFF

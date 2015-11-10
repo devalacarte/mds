@@ -1,0 +1,5 @@
+INSERT INTO [mdm].[tblEntityMemberType] ([ID], [Name], [TableCode], [ViewSuffix], [IsVisible]) VALUES (1, N'Leaf', N'EN', N'CHILDATTRIBUTES', 1)
+INSERT INTO [mdm].[tblEntityMemberType] ([ID], [Name], [TableCode], [ViewSuffix], [IsVisible]) VALUES (2, N'Consolidated', N'HP', N'PARENTATTRIBUTES', 1)
+INSERT INTO [mdm].[tblEntityMemberType] ([ID], [Name], [TableCode], [ViewSuffix], [IsVisible]) VALUES (3, N'Collection', N'CN', N'COLLECTIONATTRIBUTES', 1)
+INSERT INTO [mdm].[tblEntityMemberType] ([ID], [Name], [TableCode], [ViewSuffix], [IsVisible]) VALUES (4, N'Hierarchy', N'HR', N'HIERARCHYATTRIBUTE', 1)
+INSERT INTO [mdm].[tblEntityMemberType] ([ID], [Name], [TableCode], [ViewSuffix], [IsVisible]) VALUES (5, N'Collection Member', N'CM', N'COLLECTIONATTRIBUTE', 1)

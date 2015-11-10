@@ -1,0 +1,4 @@
+SET IDENTITY_INSERT [mdm].[tbl_4_40_EN] ON
+INSERT INTO [mdm].[tbl_4_40_EN] ([Version_ID], [ID], [Status_ID], [ValidationStatus_ID], [Name], [Code], [ChangeTrackingMask], [EnterDTM], [EnterUserID], [EnterVersionID], [LastChgDTM], [LastChgUserID], [LastChgVersionID], [AsOf_ID], [MUID]) VALUES (4, 1, 1, 0, N'+', N'+', 0, '2015-11-10 06:02:18.197', 1, 4, '2015-11-10 06:02:18.197', 1, 4, NULL, '83b0f8c0-3212-4e8c-aab7-60943ff0b0d8')
+INSERT INTO [mdm].[tbl_4_40_EN] ([Version_ID], [ID], [Status_ID], [ValidationStatus_ID], [Name], [Code], [ChangeTrackingMask], [EnterDTM], [EnterUserID], [EnterVersionID], [LastChgDTM], [LastChgUserID], [LastChgVersionID], [AsOf_ID], [MUID]) VALUES (4, 2, 1, 0, N'-', N'-', 0, '2015-11-10 06:02:18.197', 1, 4, '2015-11-10 06:02:18.197', 1, 4, NULL, '8044f1d0-8111-4834-87bc-5eaa03ea1293')
+SET IDENTITY_INSERT [mdm].[tbl_4_40_EN] OFF

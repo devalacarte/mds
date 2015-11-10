@@ -1,0 +1,7 @@
+SET IDENTITY_INSERT [mdm].[tblNavigation] ON
+INSERT INTO [mdm].[tblNavigation] ([ID], [Status_ID], [Constant], [Name], [Description], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID]) VALUES (1, 1, N'DIMENSION_EXPLORER', N'Explorer', N'Main dimension section', '2015-11-09 18:33:58.397', 0, '2015-11-09 18:33:58.397', 0)
+INSERT INTO [mdm].[tblNavigation] ([ID], [Status_ID], [Constant], [Name], [Description], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID]) VALUES (2, 1, N'VERSIONS', N'Versions', N'Versioning and validation', '2015-11-09 18:33:58.397', 0, '2015-11-09 18:33:58.397', 0)
+INSERT INTO [mdm].[tblNavigation] ([ID], [Status_ID], [Constant], [Name], [Description], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID]) VALUES (3, 1, N'IMPORT_EXPORT', N'Import Export', N'Import and exporting of data', '2015-11-09 18:33:58.397', 0, '2015-11-09 18:33:58.397', 0)
+INSERT INTO [mdm].[tblNavigation] ([ID], [Status_ID], [Constant], [Name], [Description], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID]) VALUES (4, 1, N'SECURITY', N'Security', N'System security', '2015-11-09 18:33:58.397', 0, '2015-11-09 18:33:58.397', 0)
+INSERT INTO [mdm].[tblNavigation] ([ID], [Status_ID], [Constant], [Name], [Description], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID]) VALUES (5, 1, N'SYSTEM_ADMINISTRATION', N'System Administration', N'Administer the application', '2015-11-09 18:33:58.397', 0, '2015-11-09 18:33:58.397', 0)
+SET IDENTITY_INSERT [mdm].[tblNavigation] OFF

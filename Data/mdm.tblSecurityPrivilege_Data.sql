@@ -1,0 +1,7 @@
+INSERT INTO [mdm].[tblSecurityPrivilege] ([ID], [Code], [Name], [Description], [IsActive]) VALUES (1, N'DENY', N'DenyAccess', NULL, 1)
+INSERT INTO [mdm].[tblSecurityPrivilege] ([ID], [Code], [Name], [Description], [IsActive]) VALUES (2, N'UPDATE', N'Update', NULL, 1)
+INSERT INTO [mdm].[tblSecurityPrivilege] ([ID], [Code], [Name], [Description], [IsActive]) VALUES (3, N'READ', N'ReadOnly', NULL, 1)
+INSERT INTO [mdm].[tblSecurityPrivilege] ([ID], [Code], [Name], [Description], [IsActive]) VALUES (4, N'DELETE', N'Delete', NULL, 0)
+INSERT INTO [mdm].[tblSecurityPrivilege] ([ID], [Code], [Name], [Description], [IsActive]) VALUES (5, N'EXECUTE', N'Execute', NULL, 0)
+INSERT INTO [mdm].[tblSecurityPrivilege] ([ID], [Code], [Name], [Description], [IsActive]) VALUES (6, N'CONTROL', N'Control', NULL, 0)
+INSERT INTO [mdm].[tblSecurityPrivilege] ([ID], [Code], [Name], [Description], [IsActive]) VALUES (99, N'-NA-', N'NotSpecified', N'Unassigned or inferred privilege', 1)

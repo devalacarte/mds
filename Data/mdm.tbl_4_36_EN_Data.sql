@@ -1,0 +1,4 @@
+SET IDENTITY_INSERT [mdm].[tbl_4_36_EN] ON
+INSERT INTO [mdm].[tbl_4_36_EN] ([Version_ID], [ID], [Status_ID], [ValidationStatus_ID], [Name], [Code], [ChangeTrackingMask], [EnterDTM], [EnterUserID], [EnterVersionID], [LastChgDTM], [LastChgUserID], [LastChgVersionID], [AsOf_ID], [MUID]) VALUES (4, 1, 1, 0, N'Debit', N'DR', 0, '2015-11-10 06:02:17.970', 1, 4, '2015-11-10 06:02:17.970', 1, 4, NULL, 'b8fbead2-bba6-4568-b712-a63157d22f3c')
+INSERT INTO [mdm].[tbl_4_36_EN] ([Version_ID], [ID], [Status_ID], [ValidationStatus_ID], [Name], [Code], [ChangeTrackingMask], [EnterDTM], [EnterUserID], [EnterVersionID], [LastChgDTM], [LastChgUserID], [LastChgVersionID], [AsOf_ID], [MUID]) VALUES (4, 2, 1, 0, N'Credit', N'CR', 0, '2015-11-10 06:02:17.970', 1, 4, '2015-11-10 06:02:17.970', 1, 4, NULL, 'dc0baa1e-aa23-486b-b93b-26b4256bd944')
+SET IDENTITY_INSERT [mdm].[tbl_4_36_EN] OFF
