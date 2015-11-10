@@ -1,0 +1,4 @@
+CREATE MESSAGE TYPE [microsoft/mdm/message/notification]
+AUTHORIZATION [dbo]
+VALIDATION=WELL_FORMED_XML
+GO

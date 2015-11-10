@@ -1,0 +1,5 @@
+CREATE QUEUE [mdm].[microsoft/mdm/queue/externalaction] 
+WITH STATUS=ON, 
+RETENTION=OFF,
+POISON_MESSAGE_HANDLING (STATUS=ON)
+ON [PRIMARY]

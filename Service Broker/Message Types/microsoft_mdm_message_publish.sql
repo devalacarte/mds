@@ -1,0 +1,4 @@
+CREATE MESSAGE TYPE [microsoft/mdm/message/publish]
+AUTHORIZATION [dbo]
+VALIDATION=WELL_FORMED_XML
+GO
