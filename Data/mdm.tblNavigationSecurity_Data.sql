@@ -15,5 +15,5 @@ INSERT INTO [mdm].[tblNavigationSecurity] ([ID], [Navigation_ID], [Foreign_ID], 
 INSERT INTO [mdm].[tblNavigationSecurity] ([ID], [Navigation_ID], [Foreign_ID], [ForeignType_ID], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID], [MUID], [Permission_ID]) VALUES (15, 5, 2, 2, '2015-11-10 08:40:31.440', 1, '2015-11-10 08:40:31.440', 1, 'ae1ea418-3790-49c7-a4eb-58be6008e0bb', 0)
 SET IDENTITY_INSERT [mdm].[tblNavigationSecurity] OFF
 SET IDENTITY_INSERT [mdm].[tblNavigationSecurity] ON
-INSERT INTO [mdm].[tblNavigationSecurity] ([ID], [Navigation_ID], [Foreign_ID], [ForeignType_ID], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID], [MUID], [Permission_ID]) VALUES (14, 4, 2, 2, '2015-11-10 08:40:31.437', 1, '2015-11-10 08:40:31.437', 1, 'ba364273-88da-422c-89ad-ef131f94ef8d', 1)
+INSERT INTO [mdm].[tblNavigationSecurity] ([ID], [Navigation_ID], [Foreign_ID], [ForeignType_ID], [EnterDTM], [EnterUserID], [LastChgDTM], [LastChgUserID], [MUID], [Permission_ID]) VALUES (14, 4, 2, 2, '2015-11-10 08:40:31.437', 1, '2015-11-10 08:40:31.437', 1, 'ba364273-88da-422c-89ad-ef131f94ef8d', 0)
 SET IDENTITY_INSERT [mdm].[tblNavigationSecurity] OFF
